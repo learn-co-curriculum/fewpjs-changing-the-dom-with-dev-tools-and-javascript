@@ -124,9 +124,9 @@ changed. To restore it, simply refresh the page (i.e. reload the DOM).
 Have you ever heard a celebrity or royalty refer to themselves in the third
 person repeatedly:
 
-"Wanye Kest is the greatest rapper ever to walk this earth. When
-Wanye Kest is hungry, he likes grilled cheese sandwiches, but not too much
-cheese or gruyere because Wanye Kest is mildly lactose intolerant."
+"MC Egotrip is the greatest rapper ever to walk this earth. When
+MC Egotrip is hungry, he likes grilled cheese sandwiches, but not too much
+cheese or Gruy&egrave;re because MC Egotrip is mildly lactose intolerant."
 
 And then you think "Please, use a pronoun. '_I_' would be a good start!"
 
